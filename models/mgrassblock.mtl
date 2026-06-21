@@ -1,0 +1,8 @@
+# Made in Blockbench 4.12.5
+newmtl m_c108c0a6-d819-94ad-208f-59df8fa96a4e
+map_Kd grass_block_side.png
+newmtl m_42716f16-c1e4-b0b8-0553-e8962c29f34a
+map_Kd bloc_dessus.png
+newmtl m_ae02942c-592b-fcf9-96ed-02015de03a6b
+map_Kd bloc_bas.png
+newmtl none

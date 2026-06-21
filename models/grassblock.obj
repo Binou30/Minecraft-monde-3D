@@ -1,0 +1,54 @@
+# Made in Blockbench 4.12.5
+mtllib materials.mtl
+
+o cube
+v 0.5 1 0.5
+v 0.5 1 -0.5
+v 0.5 0 0.5
+v 0.5 0 -0.5
+v -0.5 1 -0.5
+v -0.5 1 0.5
+v -0.5 0 -0.5
+v -0.5 0 0.5
+vt 0 1
+vt 1 1
+vt 1 0
+vt 0 0
+vt 0 1
+vt 1 1
+vt 1 0
+vt 0 0
+vt 0 1
+vt 1 1
+vt 1 0
+vt 0 0
+vt 0 1
+vt 1 1
+vt 1 0
+vt 0 0
+vt 0 1
+vt 1 1
+vt 1 0
+vt 0 0
+vt 0 1
+vt 1 1
+vt 1 0
+vt 0 0
+vn 0 0 -1
+vn 1 0 0
+vn 0 0 1
+vn -1 0 0
+vn 0 1 0
+vn 0 -1 0
+usemtl m_16656940-5a89-7e4d-42a3-fddb3597aa32
+f 4/4/1 7/3/1 5/2/1 2/1/1
+usemtl m_2f5c4bab-ecac-33e5-501b-043f9dc4ba11
+f 3/8/2 4/7/2 2/6/2 1/5/2
+usemtl m_a4495060-0e4b-9e9c-a50c-614641567cfa
+f 8/12/3 3/11/3 1/10/3 6/9/3
+usemtl m_1e9f7aee-0ad8-b4fd-c8a0-c39b5b0a00c7
+f 7/16/4 8/15/4 6/14/4 5/13/4
+usemtl m_f861dc84-3df0-98a7-9e3c-b9544f7ea230
+f 6/20/5 1/19/5 2/18/5 5/17/5
+usemtl m_49ee634a-9d0b-7977-9deb-485647fefc7a
+f 7/24/6 4/23/6 3/22/6 8/21/6
